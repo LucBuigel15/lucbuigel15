@@ -1,26 +1,45 @@
-# Hello 👋, I'm Luc Buigel
-### Front-End Software Developer
+<div align="center">
 
-Ik ben Luc Buigel,  16 jaar oud en ben front-end software developer aan de Bit-Academy in Groningen, Nederland
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Luc%20Buigel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%40%20Bit-Academy%20Groningen&descAlignY=58&descColor=a78bfa)
 
-## Contact Me
-<p>
-  <a href="https://www.linkedin.com/in/luc-buigel-5379903b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="https://lmdbuigel.nl" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a>
-  <a href="mailto:lmdbuigel@st.noorderpoort.nl" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+</div>
 
-## Skills
+---
+
+## ◈ Over mij
+
+
+```yaml
+naam:      Luc Buigel
+leeftijd:  16 jaar
+locatie:   Groningen, Nederland
+school:    Bit-Academy
+rol:       Front-End Developer
+stageplek: Hanze
+```
+
+---
+
+## ◈ Skills
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap&theme=dark" />
 </p>
 
+---
 
+## ◈ Contact
 
+<p>
+  <a href="https://www.linkedin.com/in/luc-buigel-5379903b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://lmdbuigel.nl">
+    <img src="https://img.shields.io/badge/Portfolio-%236d28d9.svg?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:lmdbuigel@st.noorderpoort.nl">
+    <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
