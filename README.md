@@ -10,7 +10,7 @@
 
 ```yaml
 naam:      Luc Buigel
-leeftijd:  16 jaar
+leeftijd:  17 jaar
 locatie:   Groningen, Nederland
 school:    Bit-Academy
 rol:       Front-End Developer
